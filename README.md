@@ -1,5 +1,5 @@
 # ROTHKO-PAINTING
-# Table of Table
+## Table of Table
 Building a Rothko Painting using CSS and BOX MODEL
 
 A Rothko typically refers to a painting by Mark Rothko, a famous American abstract expressionist artist known for his color field paintings. His works are characterized by:
